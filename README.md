@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there, I'm [shimakaze_soft](https://shimakaze-git.github.io/) 👋👋
+
+Backend web developer from Japan.
+
+**Languages and Tools:**
+
+- Python
+- Node.js
+- Go
+- Vue.js
+
+## My products
+
+**django-jp-birthday**
+
+* [shimakaze-git/django-jp-birthday](https://github.com/shimakaze-git/django-jp-birthday)
 
 <!--
 **shimakaze-git/shimakaze-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
