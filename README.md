@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 * [django-import-export](https://github.com/django-import-export/django-import-export)
 
+---
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimakaze-git&layout=compact&show_icons=true&theme=onedark" />
