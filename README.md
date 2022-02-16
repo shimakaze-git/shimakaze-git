@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ## Contribute
 
 * [django-import-export](https://github.com/django-import-export/django-import-export)
+* [django-push-notifications](https://github.com/jazzband/django-push-notifications)
 
 ---
 
