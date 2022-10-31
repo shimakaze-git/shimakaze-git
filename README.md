@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 * [django-import-export](https://github.com/django-import-export/django-import-export)
 * [django-push-notifications](https://github.com/jazzband/django-push-notifications)
+* [shopify_python_api](https://github.com/Shopify/shopify_python_api/)
 
 ---
 
