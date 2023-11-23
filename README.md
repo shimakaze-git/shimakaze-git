@@ -8,6 +8,7 @@ Backend web developer from Japan.
 - Node.js
 - Go
 - Vue.js
+- Next.js
 
 ## My products
 
