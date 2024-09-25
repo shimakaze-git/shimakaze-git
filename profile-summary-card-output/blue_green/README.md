@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/shimakaze-git/shimakaze-git/main/profile-summary-card-output/blue_green/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shimakaze-git/shimakaze-git/main/profile-summary-card-output/blue_green/4-productive-time.svg)
+```
+
+    
